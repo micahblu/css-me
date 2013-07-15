@@ -25,11 +25,11 @@ This section describes how to install the plugin and get it working.
 
 = Are custom post types supported =
 
-Not yet.. stay tunes.
+Not yet.. stay tuned
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.png.
+1. Sample post page with Add Custom CSS Metabox screenshot-1.png.
 
 == Changelog ==
 
