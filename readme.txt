@@ -36,4 +36,7 @@ Not yet.. stay tuned
 = 1.0 =
 * Initial version
 
+== Upgrade Notice == 
+
+No upgrades at this time
 
