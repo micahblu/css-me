@@ -26,7 +26,7 @@ function css_me_add_custom_box() {
     $screens = array( 'post', 'page' );
     foreach ($screens as $screen) {
         add_meta_box(
-            'anypage-css',
+            'css-me',
             __( 'Add Custom CSS', 'cssme' ),
             'css_me_inner_custom_box',
             $screen
