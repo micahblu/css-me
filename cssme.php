@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: CSS Me
-Plugin URI: http://www.micahblu.com/
+Plugin URI: http://micahblu.com/products/css-me
 Description: Add Custom CSS to any single page or post
 Version: 1.0
 Author: Micah Blu
